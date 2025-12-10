@@ -4,6 +4,17 @@
 
 Challenge friends to guess songs from your favorite artists. Features synchronized audio playback using the iTunes API and Firebase Realtime Database.
 
+<p align="center">
+  <!-- 
+    CAPTURE SCREENSHOTS AND ADD THEM TO: assets/screenshots/
+    THEN UNCOMMENT THESE LINES:
+  -->
+  <!-- <img src="assets/screenshots/home.png" width="24%" /> -->
+  <!-- <img src="assets/screenshots/search.png" width="24%" /> -->
+  <!-- <img src="assets/screenshots/lobby.png" width="24%" /> -->
+  <!-- <img src="assets/screenshots/game.png" width="24%" /> -->
+</p>
+
 ## Features
 
 - **Multiplayer**: Host/Join rooms with a simple 6-digit code.
