@@ -7,6 +7,7 @@ import { Inter_400Regular, Inter_600SemiBold } from '@expo-google-fonts/inter';
 import { useEffect, useState } from 'react';
 import { signInAnonymously } from 'firebase/auth';
 import { auth } from '../utils/firebaseConfig';
+import { checkForUpdates } from '../utils/githubUpdateChecker';
 
 export default function Layout() {
     const [fontsLoaded] = useFonts({
@@ -20,6 +21,7 @@ export default function Layout() {
     const [isReady, setIsReady] = useState(false);
 
     useEffect(() => {
+        checkForUpdates();
         const fontTimeout = setTimeout(() => {
             if (!fontsLoaded) {
                 // Fallback to system fonts if custom fonts fail to load

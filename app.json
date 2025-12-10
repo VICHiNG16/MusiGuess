@@ -3,8 +3,8 @@
     "experiments": {
       "baseUrl": "/MusicDuel"
     },
-    "name": "midnight-music-duel",
-    "slug": "midnight-music-duel",
+    "name": "MusiGuess",
+    "slug": "musiguess",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
