@@ -8,10 +8,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**The ultimate 1v1 music trivia experience for iOS & Android.**
+**The ultimate 1v1 music trivia experience for Android.**
 Syncs perfectly across devices. Powered by the iTunes API.
 
-[**Download APK**](https://github.com/VICHiNG16/MusiGuess/releases) • [**Play on Web**](https://viching16.github.io/MusiGuess)
+[**Download APK**](https://github.com/VICHiNG16/MusiGuess/releases)
 
 </div>
 
@@ -29,7 +29,7 @@ Syncs perfectly across devices. Powered by the iTunes API.
 *   **🎶 Infinite Library**: Guess from millions of songs using the **iTunes Search API**.
 *   **⏱️ Precision Sync**: Sub-second audio synchronization ensures fair play.
 *   **💎 Midnight Aesthetic**: A premium dark-mode interface with glassmorphism and smooth animations.
-*   **📱 Cross-Platform**: Runs natively on Android, iOS, and Web.
+*   **📱 Native Performance**: Runs natively on Android.
 
 ## 🛠️ Architecture
 
